@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>zzdrghost&#39;s blog</title>
+  <subtitle>不是因为幸福才笑，是因为笑才幸福！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2017-02-05T16:30:03.000Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>zzdrghost</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>不错的android开源库</title>
+    <link href="http://yoursite.com/2017/02/06/%E4%B8%8D%E9%94%99%E7%9A%84android%E5%BC%80%E6%BA%90%E5%BA%93/"/>
+    <id>http://yoursite.com/2017/02/06/不错的android开源库/</id>
+    <published>2017-02-05T16:28:22.000Z</published>
+    <updated>2017-02-05T16:30:03.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Test new post</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Test new post&lt;/p&gt;
+
+    
+    </summary>
+    
+    
+      <category term="android, 开源库" scheme="http://yoursite.com/tags/android-%E5%BC%80%E6%BA%90%E5%BA%93/"/>
+    
+  </entry>
+  
+</feed>
