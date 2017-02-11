@@ -1,5 +1,5 @@
-#My gitpage
+###My github page
 
-![](http://s.gravatar.com/avatar/5072efc1951a5b867b67ae9d35c09e27?s=200)
+Framework: [hexo](https://hexo.io/)， 
 
-##[zzdrghost.github.io](https://zzdrghost.github.io/)
+Theme：[yilia](https://github.com/litten/hexo-theme-yilia) by [Litten](http://litten.me/)
